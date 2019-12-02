@@ -1,4 +1,4 @@
-# StringDataTYpe
+# StringDataType
 Software Engineering Boot Camp - Task 5
 
 Compulsory Task 1
